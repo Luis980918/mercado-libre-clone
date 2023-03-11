@@ -1047,3 +1047,409 @@ main {
     border-radius: 5px;
     background: linear-gradient(0deg, #0064FF 0%, rgba(0, 100, 255, 0) 100%);
 }
+.container-discover-styles {
+    position: absolute;
+    width: 1200px;
+    height: 398.19px;
+    margin-left: 262px;
+    top: 1759.5px;
+}
+.container-discover-cards {
+    position: absolute;
+    height: 265px;
+    left: 0px;
+    right: 0px;
+    top: 50.19px;
+}
+.container-discover-card-style {
+    position: absolute;
+    height: 230px;
+    width: 550px;
+    left: 8px;
+    right: 608px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.container-discover-card2-style {
+    position: absolute;
+    width: 550px;
+    height: 230px;
+    left: 572px;
+    right: 9px;
+    top: 0px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.discover-image-style {
+    position: absolute;
+    width: 240.84px;
+    height: 230px;
+    left: 309.5px;
+    top: 0px;
+    border-radius: 0px 6px 6px 0px;
+    bottom: 0px;
+}
+.text-discover-styles {
+    position: absolute;
+    width: 287.34px;
+    height: 198.59px;
+    left: 0px;
+    top: 25.7px;
+}
+
+.renew-homework {
+    position: absolute;
+    width: 250px;
+    height: 12px;
+    left: 32px;
+    top: 22px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 12px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+}
+.home-clothes {
+    position: absolute;
+    width: 251px;
+    height: 31px;
+    left: 32px;
+    top: 40px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+}
+.discount-style-home {
+    position: absolute;
+    width: 230px;
+    height: 31px;
+    left: 32px;
+    top: 70.8px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    /* identical to box height, or 110% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #4B4B4B;
+}
+.button-home-more-information {
+    position: absolute;
+    width: 96px;
+    height: 36px;
+    left: 32px;
+    top: 130.59px;
+    cursor: pointer;
+
+
+    background: #3483FA;
+    border-radius: 2px;
+}
+
+.button-more-styles {
+    position: absolute;
+    width: 50.83px;
+    height: 20px;
+    left: 22.69px;
+    top: 7.5px;
+
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1px;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.button-more-styles-suscription {
+    position: absolute;
+    width: 50.83px;
+    height: 20px;
+    left: 10px;
+    top: 7.5px;
+    cursor: pointer;
+
+    font-family: Roboto,sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 1px;
+    /* or 7% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.container-group-images-styles {
+    position: absolute;
+    width: 1512px;
+    height: 505.19px;
+    margin-left: 262px;
+    top: 2117.5px;
+
+    background: linear-gradient(0deg, #E6E6E6 0%, rgba(255, 255, 255, 0) 100%);
+}
+.general-images-container-group {
+    position: absolute;
+    width: 268px;
+    height: 340px;
+    left: 8px;
+    top: 60px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.general-images-container-group2 {
+    position: absolute;
+    width: 268px;
+    height: 340px;
+    left: 289px;
+    top: 60px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.general-images-container-group3 {
+    position: absolute;
+    width: 268px;
+    height: 340px;
+    left: 570px;
+    top: 60px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+.general-images-container-group4 {
+    position: absolute;
+    width: 268px;
+    height: 340px;
+    left: 850px;
+    top: 60px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.1), 0px -1px 2px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+}
+
+.text-description-group-image {
+    position: absolute;
+    width: 75px;
+    height: 22px;
+    left: 107.67px;
+    top: 298px;
+    cursor: pointer;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #999999;
+}
+.group1-images-container {
+    position: absolute;
+    width: 268px;
+    height: 74px;
+    left: 0px;
+    top: 202px;
+
+}
+
+.container-group-image-1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2 - 76px);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+.container-group-image-2 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+.container-group-image-3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: calc(50% - 70px/2 + 76px);
+    top: 3px;
+
+    border: 1px solid #EEEEEE;
+    border-radius: 8px;
+}
+.img-group-general-styles {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 1px;
+    top: 1px;
+}
+.information-group-text {
+    position: absolute;
+    width: 268px;
+    height: 35px;
+    left: 0px;
+    top: 151px;
+}
+.text-information-style {
+    position: absolute;
+    width: 53.29px;
+    height: 35px;
+    left: 115.45px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #333333;
+}
+.text-information-style-oster {
+    position: absolute;
+    width: 53.29px;
+    height: 35px;
+    left: 100.45px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #333333;
+}
+
+.text-information-style-nikon {
+    position: absolute;
+    width: 53.29px;
+    height: 35px;
+    left: 100.45px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #333333;
+}
+
+.text-information-style-xiaomi {
+    position: absolute;
+    width: 53.29px;
+    height: 35px;
+    left: 95.45px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #333333;
+}
+.lego-igame-styles-container {
+    position: absolute;
+    width: 268px;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+}
+.lego-image {
+    position: absolute;
+    width: 268px;
+    top: 0px;
+    bottom: 0px;
+}
+.lego-logo-container {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    left: calc(50% - 80px/2);
+    top: 55px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+.lego-logo {
+    position: absolute;
+    border-radius: 8px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+}
