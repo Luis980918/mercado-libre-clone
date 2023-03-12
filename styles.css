@@ -157,7 +157,6 @@ nav {
     font-weight: 400;
     font-size: 17px;
     line-height: 20px;
-    /* identical to box height */
 
     display: flex;
     align-items: center;
@@ -177,8 +176,6 @@ nav {
     font-weight: 400;
     font-size: 17px;
     line-height: 20px;
-    /* identical to box height */
-
     display: flex;
     align-items: center;
 
@@ -197,7 +194,6 @@ nav {
     font-weight: 400;
     font-size: 17px;
     line-height: 20px;
-    /* identical to box height */
 
     display: flex;
     align-items: center;
@@ -217,11 +213,8 @@ nav {
     font-weight: 400;
     font-size: 17px;
     line-height: 20px;
-    /* identical to box height */
-
     display: flex;
     align-items: center;
-
     color: #000000;
 }
 
@@ -407,8 +400,6 @@ main {
     font-weight: 300;
     font-size: 25px;
     line-height: 31px;
-    /* identical to box height, or 125% */
-
     display: flex;
     align-items: center;
 
@@ -443,8 +434,6 @@ main {
     font-weight: 400;
     font-size: 15px;
     line-height: 19px;
-    /* identical to box height, or 128% */
-
     display: flex;
     align-items: center;
 
@@ -548,7 +537,6 @@ main {
     font-weight: 600;
     font-size: 13px;
     line-height: 16px;
-    /* or 123% */
 
     display: flex;
     align-items: center;
@@ -579,16 +567,9 @@ main {
     font-weight: 400;
     font-size: 23px;
     line-height: 24px;
-    /* identical to box height, or 104% */
-
     display: flex;
     align-items: center;
-
     color: #333333;
-
-
-    /* Inside auto layout */
-
     flex: none;
     order: 1;
     flex-grow: 0;
@@ -646,8 +627,6 @@ main {
     font-weight: 600;
     font-size: 25px;
     line-height: 30px;
-    /* or 120% */
-
     display: flex;
     align-items: center;
 
@@ -676,8 +655,6 @@ main {
     font-weight: 500;
     font-size: 14px;
     line-height: 14px;
-    /* identical to box height, or 100% */
-
     display: flex;
     align-items: center;
     text-align: right;
@@ -735,8 +712,6 @@ main {
     font-weight: 400;
     font-size: 20px;
     line-height: 18px;
-    /* or 106% */
-
     display: flex;
     align-items: center;
 
@@ -882,8 +857,6 @@ main {
     font-weight: 600;
     font-size: 15px;
     line-height: 48px;
-    /* or 320% */
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -1170,8 +1143,6 @@ main {
     font-weight: 600;
     font-size: 25px;
     line-height: 31px;
-    /* identical to box height, or 110% */
-
     display: flex;
     align-items: center;
     text-transform: uppercase;
@@ -1224,8 +1195,6 @@ main {
     font-weight: 600;
     font-size: 13px;
     line-height: 1px;
-    /* or 7% */
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -1490,8 +1459,6 @@ main {
     font-weight: 300;
     font-size: 25px;
     line-height: 31px;
-    /* identical to box height, or 125% */
-
     display: flex;
     align-items: center;
 
@@ -1510,10 +1477,6 @@ main {
 
     width: 250.8px;
     height: 28px;
-
-
-    /* Inside auto layout */
-
     flex: none;
     order: 1;
     flex-grow: 0;
@@ -1982,8 +1945,6 @@ footer {
     font-weight: 500;
     font-size: 19px;
     line-height: 28px;
-    /* or 147% */
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -2002,8 +1963,6 @@ footer {
     font-weight: 400;
     font-size: 15px;
     line-height: 18px;
-    /* or 120% */
-
     display: flex;
     align-items: center;
     text-align: center;
@@ -2060,8 +2019,6 @@ footer {
     font-weight: 400;
     font-size: 11px;
     line-height: 12px;
-    /* or 109% */
-
     display: flex;
     align-items: center;
 
@@ -2111,8 +2068,6 @@ footer {
     font-weight: 400;
     font-size: 12px;
     line-height: 13px;
-    /* identical to box height, or 108% */
-
     display: flex;
     align-items: center;
 
@@ -2130,8 +2085,6 @@ footer {
     font-weight: 400;
     font-size: 12px;
     line-height: 13px;
-    /* identical to box height, or 108% */
-
     display: flex;
     align-items: center;
 
