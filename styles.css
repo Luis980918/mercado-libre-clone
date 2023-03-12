@@ -1899,3 +1899,334 @@ main {
     left: calc(50% - 48px/2 + 1.5px);
     top: 46px;
 }
+footer {
+    margin-top: 11px;
+}
+.footer-general-container {
+    position: absolute;
+    width: 1512px;
+    height: 3650.5px;
+    left: 0px;
+    top: 0px;
+}
+
+.footer-container-2 {
+    position: absolute;
+    width: 1512px;
+    height: 4729.31px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.footer-section1-style {
+    position: absolute;
+    width: 1512px;
+    height: 300px;
+    left: -2px;
+    top: 3650.5px;
+    background: #FFFFFF;
+}
+.section-styles-container-1 {
+    position: absolute;
+    width: 1200px;
+    height: 80px;
+    left: calc(50% - 1200px/2);
+    display: flex;
+    top: 0px;
+}
+.section-styles-container-2 {
+    position: absolute;
+    width: 1200px;
+    height: 80px;
+    left: 620px;
+    display: flex;
+    top: 0px;
+}
+.section-styles-container-3 {
+    position: absolute;
+    width: 1200px;
+    height: 80px;
+    left: 1049px;
+    display: flex;
+    top: 0px;
+}
+.section-container-style1 {
+    position: absolute;
+    height: 260px;
+    left: 0px;
+    right: 800px;
+    top: 40px;
+}
+.image-footer-style1 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+
+    position: absolute;
+    width: 66px;
+    height: 46px;
+    left: calc(50% - 66px/2);
+    top: calc(50% - 46px/2 - 72px);
+}
+.text-footer-image1 {
+    position: absolute;
+    width: 260.89px;
+    height: 29px;
+    left: 75.66px;
+    top: 105px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 28px;
+    /* or 147% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #4B4B4B;
+}
+.text-footer-image2 {
+    position: absolute;
+    width: 303.4px;
+    height: 75px;
+    left: 48.39px;
+    top: 136px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    /* or 120% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #999999;
+}
+.text-footer-image3 {
+    position: absolute;
+    width: 195.11px;
+    height: 20px;
+    left: 102.55px;
+    top: 220px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #3483FA;
+}
+.contact-footer-information-style {
+    box-sizing: border-box;
+
+    position: absolute;
+    height: 156px;
+    left: 0px;
+    right: 0px;
+    top: 3951px;
+
+    background: #FFFFFF;
+    border-top: 1px solid #E6E6E6;
+}
+.contact-information-contain-style {
+    position: absolute;
+    width: 1180px;
+    height: 40px;
+    left: 0px;
+    top: 0px;
+
+}
+.text1-information-style {
+    position: absolute;
+    width: 299.28px;
+    height: 17px;
+    left: 0px;
+    top: 39px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 12px;
+    /* or 109% */
+
+    display: flex;
+    align-items: center;
+
+    color: #999999;
+}
+.generic-footer-information-style {
+    position: absolute;
+    width: 1180px;
+    height: 54px;
+    left: 166px;
+    top: 17px;
+
+}
+.text-generic-information-style {
+    position: absolute;
+    width: 286.98px;
+    height: 17px;
+    left: 0px;
+    top: 20px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+
+    color: #999999;
+}
+.ul-information-container-style {
+    position: absolute;
+    width: 744px;
+    height: 13px;
+    left: 0px;
+    top: 0px;
+}
+.text2-information-style {
+    position: absolute;
+    width: 84px;
+    height: 13px;
+    left: 649.48px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    /* identical to box height, or 108% */
+
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.text3-information-style {
+    position: absolute;
+    width: 74px;
+    height: 13px;
+    left: 561.28px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    /* identical to box height, or 108% */
+
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.text4-information-style {
+    position: absolute;
+    width: 72px;
+    height: 13px;
+    left: 469.52px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.text5-information-style {
+    position: absolute;
+    width: 160px;
+    height: 13px;
+    left: 284.41px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.text6-information-style {
+    position: absolute;
+    width: 127px;
+    height: 13px;
+    left: 134.97px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+
+    color: #333333;
+}
+.text7-information-style {
+    position: absolute;
+    width: 113px;
+    height: 13px;
+    left: 0px;
+    top: 0px;
+
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 13px;
+    display: flex;
+    align-items: center;
+    color: #333333;
+}
+.last-footer-information-container {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1180px;
+    height: 69px;
+    left: calc(50% - 1180px/2);
+    top: 87px;
+
+    border-top: 1px solid #EDEDED;
+}
+.last-image1-style {
+    position: absolute;
+    width: 141px;
+    height: 30px;
+    left: 0px;
+    top: 19px;
+}
+.last-image2-style {
+    position: absolute;
+    width: 200px;
+    height: 34px;
+    left: 161px;
+    top: 17px;
+}
+
